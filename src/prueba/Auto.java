@@ -10,5 +10,8 @@ package prueba;
  * @author pc
  */
 public class Auto {
+
+    public Auto() {
+    }
     
 }
