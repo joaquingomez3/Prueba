@@ -5,6 +5,8 @@
  */
 package prueba;
 
+import java.util.logging.Logger;
+
 /**
  *
  * @author pc
@@ -13,5 +15,7 @@ public class Auto {
 
     public Auto() {
     }
+    private static final Logger LOG = Logger.getLogger(Auto.class.getName());
+    
     
 }
